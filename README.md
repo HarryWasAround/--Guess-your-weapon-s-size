@@ -1,0 +1,1 @@
+# prog My first ever javascript project. Keep in mind that I only know about half the syntax and the program is pretty basic and kind of silly. Still, I wanted to post it here, regardless of everything said. I plan to do the same with all of my next projects so that my future self and the community can see my progress.
